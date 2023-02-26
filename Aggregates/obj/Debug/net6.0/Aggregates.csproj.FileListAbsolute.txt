@@ -1,0 +1,15 @@
+D:\для симс\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.exe
+D:\для симс\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.deps.json
+D:\для симс\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.runtimeconfig.json
+D:\для симс\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.dll
+D:\для симс\aggregates-main\aggregates-main\Aggregates\bin\Debug\net6.0\Aggregates.pdb
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.csproj.AssemblyReference.cache
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.GeneratedMSBuildEditorConfig.editorconfig
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.AssemblyInfoInputs.cache
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.AssemblyInfo.cs
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.csproj.CoreCompileInputs.cache
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.dll
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\refint\Aggregates.dll
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.pdb
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\Aggregates.genruntimeconfig.cache
+D:\для симс\aggregates-main\aggregates-main\Aggregates\obj\Debug\net6.0\ref\Aggregates.dll
